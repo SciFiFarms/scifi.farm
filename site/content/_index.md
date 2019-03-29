@@ -1,5 +1,5 @@
 ---
-title: Science Fiction Farms
+title: ' '
 subtitle: ' '
 image: /img/stephanie-moody-1439580-unsplash.jpg
 blurb:
